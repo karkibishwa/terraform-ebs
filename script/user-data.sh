@@ -1,4 +1,5 @@
 #!/bin/bash
+pip install aws
 vol="vol-0718354d098b93324"
 mount_dir="/bishwa"
 device="/dev/xvdf/"
